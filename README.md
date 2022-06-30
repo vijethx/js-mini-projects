@@ -11,6 +11,6 @@ H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [x] Purple Heart Rain
 - [x] Background Changer
 - [x] Dark Mode Toggle
-- [ ] Image Carousel
+- [x] Image Carousel
 - [ ] Sound Board
 - [ ] Zoom Effect
