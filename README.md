@@ -7,7 +7,7 @@ H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [x] Hamburger Button & Hidden Menu
 - [x] Toast Notification
 - [x] Auto Write Text
-- [ ] Popup / Modal
+- [x] Popup / Modal
 - [ ] Purple Heart Rain
 - [ ] Background Changer
 - [ ] Dark Mode Toggle
