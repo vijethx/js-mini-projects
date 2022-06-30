@@ -9,7 +9,7 @@ H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [x] Auto Write Text
 - [x] Popup / Modal
 - [x] Purple Heart Rain
-- [ ] Background Changer
+- [x] Background Changer
 - [ ] Dark Mode Toggle
 - [ ] Image Carousel
 - [ ] Sound Board
