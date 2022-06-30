@@ -12,5 +12,5 @@ H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [x] Background Changer
 - [x] Dark Mode Toggle
 - [x] Image Carousel
-- [ ] Sound Board
-- [ ] Zoom Effect
+- [x] Sound Board
+- [x] Zoom Effect
