@@ -1,16 +1,16 @@
 # JavaScript Mini Projects
 
-Projects Live Here : [https://vijethx.github.io/](https://vijethx.github.io/)
+Projects Live Here : <a href="https://vijethx.github.io/js-mini-projects" target="_blank">https://vijethx.github.io/js-mini-projects</a>
 
 H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 
-1. Hamburger Button & Hidden Menu
-2. Toast Notification
-3. Auto Write Text
-4. Popup / Modal
-5. Purple Heart Rain
-6. Background Changer
-7. Dark Mode Toggle
-8. Image Carousel
-9. Sound Board
-10. Zoom Effect
+- [x] Hamburger Button & Hidden Menu
+- [x] Toast Notification
+- [x] Auto Write Text
+- [ ] Popup / Modal
+- [ ] Purple Heart Rain
+- [ ] Background Changer
+- [ ] Dark Mode Toggle
+- [ ] Image Carousel
+- [ ] Sound Board
+- [ ] Zoom Effect
