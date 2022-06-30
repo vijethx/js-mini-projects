@@ -8,7 +8,7 @@ H/T [Florin Pop](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 - [x] Toast Notification
 - [x] Auto Write Text
 - [x] Popup / Modal
-- [ ] Purple Heart Rain
+- [x] Purple Heart Rain
 - [ ] Background Changer
 - [ ] Dark Mode Toggle
 - [ ] Image Carousel
